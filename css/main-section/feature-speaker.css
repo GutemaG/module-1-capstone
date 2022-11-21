@@ -56,6 +56,7 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+
 .speaker-name {
   font-weight: bold;
   font-size: 1.2rem;
