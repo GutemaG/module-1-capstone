@@ -65,7 +65,7 @@
   display: none;
 }
 
-.hero-container:before {
+.hero-container::before {
   content: " ";
   display: block;
   position: absolute;
@@ -138,6 +138,10 @@
   font-weight: bold;
 }
 
+.top-nav-items {
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   #nav-menu-show {
     display: none;
@@ -197,6 +201,7 @@
   .hero-container {
     padding: 5rem;
   }
+
   .hero {
     width: 80%;
     margin: auto;
