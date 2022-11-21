@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .speakers {
@@ -104,10 +104,7 @@
 
 @media screen and (min-width: 768px) {
   .feature-speaker {
-    display: flex;
-    flex-direction: column;
-    gap: 3rem;
-    padding: 5rem;
+    padding: 7rem;
   }
 
   .speakers {
