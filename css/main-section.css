@@ -1,0 +1,17 @@
+@import url(main-section/main-program.css);
+@import url(main-section/feature-speaker.css);
+@import url(main-section/partner-section.css);
+
+.btn {
+  border-radius: 5px;
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+  padding: 1.5rem;
+}
+
+/* @media screen and (min-width: 768px) {
+ 
+} */
