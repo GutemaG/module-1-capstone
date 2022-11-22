@@ -1,6 +1,7 @@
 footer {
   padding: 2rem;
   display: flex;
+  gap: 1rem;
   justify-content: space-around;
   align-items: center;
   background-color: var(--primary-color);
@@ -13,6 +14,6 @@ footer img {
 }
 
 footer p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #fff;
 }

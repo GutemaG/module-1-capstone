@@ -29,6 +29,7 @@
   gap: 1rem;
   color: #fff;
   padding: 1rem;
+  opacity: 0.95;
 }
 
 .nav-items.show {
@@ -171,7 +172,11 @@
     border-radius: 0;
   }
 
-  .nav-items .nav-item a {
+  .active a {
+    color: var(--secondary-color);
+  }
+
+  .nav-items .nav-item:not(.active) a {
     color: var(--primary-color);
   }
 
@@ -229,5 +234,13 @@
     color: #fff;
     gap: 1rem;
     padding: 5px 7.5rem 5px 0;
+  }
+
+  .top-nav-items .top-nav-item {
+    cursor: pointer;
+  }
+
+  .top-nav-items .icon {
+    color: dodgerblue;
   }
 }

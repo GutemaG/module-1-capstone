@@ -9,11 +9,13 @@ const partnersList = document.querySelector('#partners');
 navMenu.addEventListener('click', () => {
   navItems.classList.toggle('show');
   navItems.classList.remove('hide');
+  navItems.classList.add('open');
 });
 
 closeMenuIcon.addEventListener('click', () => {
   navItems.classList.remove('show');
   navItems.classList.toggle('hide');
+  navItems.classList.remove('open');
 });
 
 const createSpeakerContent = (content) => (
