@@ -1,0 +1,32 @@
+@import url(css/header.css);
+@import url(css/main-section.css);
+@import url(css/footer.css);
+
+@font-face {
+  font-family: "cocogoose";
+  src: url("fonts/cocogoose/Cocogoose_trial.ttf");
+}
+
+:root {
+  --primary-color: #272a31;
+  --secondary-color: #ec5242;
+  --tertiary-color: #d3d3d3;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
