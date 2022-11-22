@@ -43,6 +43,21 @@
   display: none;
 }
 
+.heading-text {
+  position: relative;
+}
+
+.title::after {
+  content: "";
+  position: absolute;
+  bottom: -0.5rem;
+  right: 50%;
+  background: red;
+  width: 3rem;
+  height: 0.1rem;
+  transform: translateX(50%);
+}
+
 @media screen and (min-width: 768px) {
   .main-program {
     display: flex;

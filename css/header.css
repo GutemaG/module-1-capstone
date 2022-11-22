@@ -30,10 +30,26 @@
   color: #fff;
   padding: 1rem;
   opacity: 0.95;
+  animation: animate 0.2s ease-in forwards;
 }
 
 .nav .nav-items.show {
   display: flex;
+}
+
+@keyframes animate {
+  0% {
+    height: 0%;
+    width: 0%;
+  }
+  50% {
+    height: 50%;
+    width: 50%;
+  }
+  100% {
+    height: 100%;
+    width: 100%;
+  }
 }
 
 .nav-items.hide {
@@ -53,6 +69,7 @@
 
 .nav-item a {
   color: #fff;
+  display: block;
 }
 
 .nav-item:hover,
@@ -220,7 +237,7 @@
     line-height: 4rem;
     color: transparent;
     font-weight: 700;
-    font-family: 'COCOGOOSE', sans-serif;
+    font-family: "COCOGOOSE", sans-serif;
   }
 
   .hero-description {
@@ -247,4 +264,9 @@
   .top-nav-items .icon {
     color: dodgerblue;
   }
+
+  .top-nav-items .github a {
+    color:#fff;
+  }
+  
 }

@@ -30,10 +30,27 @@
   gap: 1rem;
   color: #fff;
   padding: 1rem;
+  opacity: 0.95;
+  animation: animate 0.2s ease-in forwards;
 }
 
 .nav-items.show {
   display: flex;
+}
+
+@keyframes animate {
+  0% {
+    height: 0%;
+    width: 0%;
+  }
+  50% {
+    height: 50%;
+    width: 50%;
+  }
+  100% {
+    height: 100%;
+    width: 100%;
+  }
 }
 
 .nav-items.hide {
@@ -53,6 +70,8 @@
 
 .nav-item a {
   color: #fff;
+  display: block;
+
 }
 
 .nav-item:hover,
