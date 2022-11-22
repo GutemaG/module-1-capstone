@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-try [Live Demo](#)
+try [Live Demo](https://gutemag.github.io/module-1-capstone/)
 
 ## Portfolio presentation video
 
