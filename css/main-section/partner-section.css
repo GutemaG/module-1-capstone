@@ -22,4 +22,7 @@
 
 .partner img {
   width: 100px;
+  background-color: #2d3957;
+  padding: 1rem;
+  border-radius: 1rem;
 }
