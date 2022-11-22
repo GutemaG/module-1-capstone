@@ -43,10 +43,12 @@
     height: 0%;
     width: 0%;
   }
+
   50% {
     height: 50%;
     width: 50%;
   }
+
   100% {
     height: 100%;
     width: 100%;
@@ -71,7 +73,6 @@
 .nav-item a {
   color: #fff;
   display: block;
-
 }
 
 .nav-item:hover,
@@ -208,6 +209,10 @@
     color: var(--secondary-color);
   }
 
+  .top-nav-items .github a {
+    color: #fff;
+  }
+
   .nav-items .nav-item:not(.active) a {
     color: var(--primary-color);
   }
@@ -285,9 +290,5 @@
 
   .top-nav-items .icon {
     color: dodgerblue;
-  }
-
-  .top-nav-items .github a {
-    color:#fff;
   }
 }
