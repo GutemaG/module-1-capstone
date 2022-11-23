@@ -1,12 +1,10 @@
 .nav {
-  background: #fff;
   position: fixed;
   top: 0;
   padding: 1rem;
   overflow: hidden;
   margin-bottom: 1rem;
   width: 100%;
-  box-shadow: 0 1px 4px #2e2828;
   animation-fill-mode: backwards;
   z-index: 10;
 }
@@ -172,6 +170,8 @@
     flex-direction: row;
     align-items: center;
     padding: 0 15rem;
+    box-shadow: 0 1px 4px #2e2828;
+    background: #fff;
   }
 
   .logo {
