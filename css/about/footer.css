@@ -4,16 +4,32 @@ footer {
   gap: 1rem;
   justify-content: space-around;
   align-items: center;
-  background-color: var(--primary-color);
+  background-color: #fff;
 }
 
 footer img {
   width: 200px;
-  background-color: #ccc;
+
+  /* background-color: #ccc; */
   border-radius: 5px;
 }
 
 footer p {
   font-size: 1rem;
-  color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  footer {
+    background-color: var(--primary-color);
+  }
+
+  footer img {
+    width: 200px;
+    background-color: #ccc;
+    border-radius: 5px;
+  }
+
+  footer p {
+    color: #fff;
+  }
 }

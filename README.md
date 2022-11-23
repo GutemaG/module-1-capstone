@@ -18,7 +18,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [Live Demo ](#video-description)
+  - [Video Description ](#video-description)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -71,7 +71,7 @@
 - [Live Demo Link](https://gutemag.github.io/module-1-capstone/)
 
 ## Video Description <a name="video-description"></a>
-- [Live Demo Link](https://gutemag.github.io/module-1-capstone/)
+- [Video Description](https://www.loom.com/share/0259b529b1184f48a7f0b3cd2c78d318)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->

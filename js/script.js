@@ -57,7 +57,7 @@ fetch('data.json')
         seeMoreSpeaker.style.display = 'block';
         seeLessSpeaker.style.display = 'none';
       } else if (window.innerHeight > 768) {
-        showNumberSpeaker(speakerData.length);
+        showNumberSpeaker(6);
         seeLessSpeaker.style.display = 'none';
         seeMoreSpeaker.style.display = 'none';
       }
@@ -67,11 +67,11 @@ fetch('data.json')
       showNumberSpeaker(2);
       seeMoreSpeaker.style.display = 'block';
     } else if (window.innerHeight > 768) {
-      showNumberSpeaker(speakerData.length);
+      showNumberSpeaker(6);
     }
 
     seeMoreSpeaker.addEventListener('click', () => {
-      showNumberSpeaker(speakerData.length);
+      showNumberSpeaker(6);
       seeMoreSpeaker.style.display = 'none';
       seeLessSpeaker.style.display = 'block';
     });
@@ -96,7 +96,7 @@ fetch('data.json')
         seeMoreSpeaker.style.display = 'block';
         seeLessSpeaker.style.display = 'none';
       } else if (window.innerHeight > 768) {
-        showNumberSpeaker(speakerData.length);
+        showNumberSpeaker(6);
         seeLessSpeaker.style.display = 'none';
         seeMoreSpeaker.style.display = 'none';
       }
@@ -106,11 +106,11 @@ fetch('data.json')
       showNumberSpeaker(2);
       seeMoreSpeaker.style.display = 'block';
     } else if (window.innerHeight > 768) {
-      showNumberSpeaker(speakerData.length);
+      showNumberSpeaker(6);
     }
 
     seeMoreSpeaker.addEventListener('click', () => {
-      showNumberSpeaker(speakerData.length);
+      showNumberSpeaker(6);
       seeMoreSpeaker.style.display = 'none';
       seeLessSpeaker.style.display = 'block';
     });
