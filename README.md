@@ -17,7 +17,7 @@ try [Live Demo](https://gutemag.github.io/module-1-capstone/)
 
 ## Portfolio presentation video
 
-see [video description](#)
+see [video description](https://www.loom.com/share/0259b529b1184f48a7f0b3cd2c78d318)
 
 ## Getting Started
 
