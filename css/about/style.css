@@ -1,0 +1,30 @@
+@import url(header.css);
+@import url(main-section.css);
+@import url(footer.css);
+@import url('https://fonts.cdnfonts.com/css/cocogoose');
+
+/* @import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap"); */
+
+:root {
+  --primary-color: #272a31;
+  --secondary-color: #ec5242;
+  --tertiary-color: #d3d3d3;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}

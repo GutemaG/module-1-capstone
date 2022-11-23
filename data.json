@@ -1,0 +1,290 @@
+{
+  "partners": [
+    {
+      "name": "chapa",
+      "image": "assets/partner/chapa.png",
+      "url": "https://chapa.co",
+      "description": [
+        "Established in 2020 and headquartered in Addis Ababa, Ethiopia by a team of home-grown engineers, researchers, and entrepreneurs, ",
+        "Chapa is an Ethiopian Financial Service and Data Engineering Company. The inevitable increase in global trade which has been visibly ",
+        " troubled by inconvenient payment methods served as the strongest initiative behind the establishment of Chapa. Focused on fixing and ",
+        "providing solutions for payment & transaction issues that are predominant in developing countries, mainly in East Africa, Chapa has ",
+        " acquired and established holy-grail tools, exclusive techniques, and methodologies to ensure the production of qualified hi-tech fixes for our customers.",
+        "Chapa empowers companies and developers that are on the rise by offering services such as – Payment Gateways, Payment Applications and Equipment's, APIs, and much more.",
+        "Chapa provides access to the most inclusive financial data, secure payment methods,and Bill Aggregator Solutions. Discover more at https://chapa.co/"
+      ]
+    },
+    {
+      "name": "hawk",
+      "image": "assets/partner/hawk-logo.png",
+      "url": "https://www.hawk.de/en",
+      "description": [
+        "HAWK Univeresity of Applied Sciences and Arts, headquartered in Germany, ",
+        "offers over 41 Bachelor's and Master's programs out of its three campuses around Germany. ",
+        "The HAWK is a state university in Lower Saxony with more than 6,000 students. ",
+        "The university is regionally anchored and has excellent national and international networks. ",
+        "One basis for this is certainly its roots, which go back for example to the 19th century at the location in Holzminden. ",
+        "Since its official foundation as a university of applied sciences in 1971, the HAWK has always kept up with the times. ",
+        "Their content, practical relevance and teaching methods reflect what is expected in the professions today and in the future.",
+        "In addition to the classic full-time degree programmes with Bachelor's and Master's degrees, ",
+        "part-time and dual degree programmes as well as continuing education programmes have established themselves. ",
+        "Lifelong learning is therefore not just a goal, but remains a lived practice. Discover more at www.hawk.de/en"
+      ]
+    },
+    {
+      "name": "presight",
+      "image": "assets/partner/presight-ai.png",
+      "url": "https://www.presight.ai",
+      "description": [
+        "Presight is the leading AI and predictive intelligence company fusing Big Data,",
+        " Analytics and Machine Learning to power the next generation of cities, businesses and industries.",
+        "Presight enables stakeholders in both the public and private sectors to make intelligence-driven",
+        "decisions. Its solutions help steer digital transformation and simplify its customers' ",
+        "challenges across various industries, including digital governments, national security, ",
+        "national cloud, healthcare, financial sectors and infrastructure. Founded in 2020, it is ",
+        "headquartered in Abu Dhabi, UAE. As a young and energetic company, it has developed ",
+        "transformative products/solutions which enable its customers to gain a stark competitive advantage",
+        "by integrating AI and ML in their digital transformation. It has a team of over 60 people including",
+        "domain specialists, operations experts, data scientists, solution architects, software developers,",
+        "engineers and data analysts from different countries – all committed to delivering impact. ",
+        "Presight is a part of G42 (https://g42.ai/), UAE's leading AI and Cloud Computing company that champions",
+        "AI as drivers that power progress, propelled by the combination of exceptional people and technology.",
+        " Discover more at www.presight.ai"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "H.E. Abiy Ahmed (PhD)",
+      "title": "Prime Minster of the Democratic Republic of Ethiopia",
+      "topic": "Guest of Honor",
+      "image": "assets/speaker/dr-abiy-ahmed.png",
+      "description": ""
+    },
+    {
+      "name": "Mr. Antonio Pedro",
+      "title": "Acting Executive Secretary United Nations Economic Commission for Africa",
+      "topic": "Speaker on : The Role of the UNECA in Developing AI in Africa",
+      "image": "assets/speaker/Mr-Antonio-Pedro.jpg",
+      "description": [
+        " Antonio M.A. Pedro is a mineral exploration geologist with more ",
+        "than 40 years of broad experience of and exposure to development issues and ",
+        " management at national, sub-regional, and continental levels. He joined the ",
+        " United Nations Economic Commission for Africa (ECA) in 2001, where he was ",
+        "(2016-2021) the Director of ECA's Sub-regional Office for Central Africa (SRO-CA), ",
+        "based in Yaounde, Cameroon, until his appointment as Deputy Executive Secretary ",
+        "(Programme Support) of ECA in October 2021.Since 1 September 2022, he is the Acting",
+        "Executive Secretary of ECA.He has been involved in the promotion of regional integration ",
+        "and cooperation on the continent since 1984. In 1984, he played an active role in the",
+        "definition of the first mining programme of action of the Southern African Development ",
+        "Community (SADC). Later, he also contributed actively to the formulation of SADC Mining Protocol. ",
+        "This formed the basis for collaboration and cooperation between SADC member States on mineral development issues.",
+        "Through collaboration with WEF, the International Council on Mining and Metals ",
+        " (ICMM) , UNSDSN, IRP, the Global Battery Alliance (GBA) and other platforms, he advocates Africa's ",
+        "positions at the global level and contributes to shaping global thinking and discourse on development ",
+        "issues of concern to Africa and the world, especially those related to sustainable development and shared",
+        " value creation, geopolitics of resource extraction and global resource security, the future of mining, ",
+        " conflict minerals, corporate social responsibility, responsible mining, local content, resource-based ",
+        " industrialisation and linkages development, markets and commodity prices, contract negotiations, illicit ",
+        " financial flows, ASM and international governance architecture in fragile terrains (e.g. sea-bed resources). "
+      ]
+    },
+    {
+      "name": "Dr. Mohammed AI-Kuwaiti",
+      "title": "Head of Cyber Security UAE Government",
+      "topic": "Speaker on : UAE Model: AI in Cybersecurity",
+      "image": "assets/speaker/dr-mohammed-AI-Kuwaiti.png",
+      "description": [
+        "Dr. Al Kuwaiti was appointed into the Cabinet as the Head of the Cyber Security for the UAE Government in 2020.",
+        "As the Head of the Cyber Security, his mandate includes being the Chairman of the UAE Cyber Security Council as well as Managing ",
+        "Director of the National Data Centre under the Supreme Council for National Security. As the Head of Cyber Security for the UAE ",
+        "Government by investiture, Dr. Al Kuwaiti has legal authority over all aspects pertaining securing the cyberspace for the entire Nation.",
+        "In his current role, Dr. Al Kuwaiti is tasked with the responsibility of charting a cyber security strategy for the Nation that not ",
+        "only ensuring that the UAE will be entering into the digital era with fully capable of dealing with the new threat landscape brought",
+        "about by the pandemic, but also to ensure UAE's leadership in cyber security globally towards establishing the UAE as the world's",
+        "leading trusted digital hub supporting the Nation's digital transformation agenda and the digital future of all residents who ",
+        "made UAE their home.Under Dr. Al Kuwaiti's leadership, the UAE has advanced 42 positions in the ITU Global Cybersecurity Index,",
+        "rising to 5th place globally from 47th place in the last assessment. Dr. Al Kuwaiti has also led UAE to many first,",
+        "including Guinness World of Records for having the most users in a cyber capture the flag (CTF) competition and the ",
+        "largest bug bounty competition, all initiatives that aims at supporting capacity building in Cyber Security and improving",
+        "the technical competencies of cyber security professionals and enthusiasts. More importantly, he is most instrumental in",
+        "advocating for realizing the value of cyber security by demonstrating cyber security as a critical business enabler. ",
+        "Dr. Al Kuwaiti also sits on the Boards of the UAE Council for Digital Wellbeing, Telecommunications and Digital Government",
+        "Regulatory Authority (TDRA), Federal Geographic Information Center and is on the Advisory Committees of the College of ",
+        "Information Technology under United Arab Emirates University (UAEU) and Emirates ICT Innovation Center (EBTIC) ",
+        "under Khalifa University. Additionally, he is an Adjunct Professor under the Homeland Security Program at ",
+        "Rabdan Academy and a visiting lecturer on Cyber Security at universities such as Khalifa University and National Defense College in Abu Dhabi. ",
+        "Dr. Al Kuwaiti holds a Doctorate in Computer Engineering and Network Security from George Washington University in the U.S. ",
+        "and a master's degree in Telecommunications and Computer Networks. He also holds a M.A. degree in International and Civil Security. ",
+        "Dr. Al Kuwaiti is an honorable member of Society of Engineers, IEEE Society, Golden Key National Honor Society and Computer Society.",
+        "His research interests are detecting, monitoring and responding to cyber warfare, Network Forensics, Corporate Governance & Process, and national cyber policy. "
+      ]
+    },
+    {
+      "name": "Abeba Birhane (PhD)",
+      "title": "Adjunct Assistant Prof., Complex Software Lab School of Computer Science and Informatics, University College Dublin, Ireland ",
+      "topic": "Adjunct Assistant Prof., Complex Software Lab School of Computer Science and Informatics, University College Dublin, Ireland ",
+      "image": "assets/speaker/abeba-birhane.png",
+      "description": [
+        " Abeba Birhane (PhD) is a cognitive scientist researching human behaviour, social systems, ",
+        "and responsible and ethical Artificial Intelligence (AI). She is a Senior Fellow in Trustworthy",
+        "AI at Mozilla Foundation. Her interdisciplinary research explores various broad themes in",
+        "cognitive science, AI, complexity science, and theories of decoloniality.",
+        "More specifically, she examines the challenges and pitfalls of computational models (and datasets)",
+        "from a conceptual, empirical, and critical perspective."
+      ]
+    },
+    {
+      "name": "Prof. Dr. Friedhelm Schwenker",
+      "title": "Professor at Institute of Neural Information Processing, University of Ulm, Germany",
+      "topic": "Speaker on: Mathematical Aspects of Deep Neural Networks",
+      "image": "assets/speaker/prof-dr-friedhelm-shwenker.png",
+      "description": [
+        "FRIEDHELM SCHWENKER (Member, IEEE) received the Diploma and Ph.D. degrees",
+        "in mathematics and computer science from the University of Osnabrück. ",
+        "He is currently a Professor at the Institute of Neural Information Processing, ",
+        "Ulm University. He has (co-) edited 24 special issues and workshop proceedings ",
+        "published in international journals and publishing companies.He has published ",
+        " more than 320 papers at international conferences and journals.His research interests",
+        " include artificial neural networks, machine learning, statistical learning theory, ",
+        " data mining, pattern recognition, information fusion and affective computing. ",
+        " He has served as the (Co-) Chair of the IAPR TC3 on Neural Networks and Computational Intelligence. ",
+        " He has also been the Chair of the IAPR TC9 on Pattern Recognition in Human-Computer Interaction."
+      ]
+    },
+    {
+      "name": " Prof.Tommie Meyer",
+      "title": "Professor in Computer Science University of Cape Town, South Africa, and Co-director of the South African Centre for Artificial Intelligence Research",
+      "topic": "Speaker on: AI in Africa's Context",
+      "image": "assets/speaker/prof-tommie.png",
+      "description": [
+        "  Tommie Meyer is a professor in Computer Science at the University of Cape Town in South Africa, ",
+        " and co-director of the South African Centre for Artificial Intelligence Research (www.cair.org.za).",
+        " Prior to this he held positions at the Council for Scientific and Industrial Research(CSIR) in Pretoria, South Africa;",
+        "National ICT Australia and the University of New South Wales in Sydney, Australia; ",
+        "  the University of Pretoria in South Africa; and the University of South Africa.",
+        " He is recognised internationally as an expert in Artificial Intelligence, with more ",
+        "than 170 publications in peer-reviewed journals, conferences, and workshops.  ",
+        " He is one of only three South African Computer Scientists to have obtained an A-rating ",
+        " from the South African National Research Foundation. He is a current associate editor of ",
+        " the Journal of Artificial Intelligence Research and a past associate editor of the  ",
+        " Artificial Intelligence Journal.    He is the Local Chair of the International Joint",
+        " Conference on Artificial Intelligence (IJCAI) for 2023 which will be held in Cape Town, South Africa."
+      ]
+    },
+    {
+      "name": "Herman Kojo Chinery-Hesse",
+      "title": "Chairman, the SOFTtribe",
+      "topic": "Panelist on Impact of Ai for African sustainable development",
+      "image": "assets/speaker/herman-kojo.jpg",
+      "description": [
+        "Herman Kojo Chinery-Hesse has been listed as one of the top 100 global thinkers by the US based publication,",
+        "Foreign Policy Magazine. He and his companies have won numerous awards and accolades ",
+        "including the GUBA award in the UK, the Ghana Millennium Excellence Awards for IT, ",
+        "the Ghana Club 100 Award for the most innovative company, the “SMS App of the year” award,",
+        "the Mobile World Lifetime Achievement Award, Best Entrepreneur in Information and ",
+        "Communication Technology and the Distinguished Alumnus Award from Texas State University, ",
+        "the first and currently only African recipient of the award.  He was placed 17 on the list ",
+        "of 20 Notable Black Innovators in Technology. Herman has been listed as one of Africa's ",
+        "Top 20 Tech Influences and also listed as one of 100 most influential Africans of our time ",
+        "by many international institutions and publications. ",
+        "In 1991, Herman co-founded theSOFTtribe Ltd, one of the earliest and the most prominent software",
+        "houses in Africa.  In 2008, he created innovative products relating to e-payments such as the",
+        "“Sundiata” payment platform, on the novel MX Platform, pioneering e-payments to Africans. ",
+        "Herman and his company have created novel and innovative acclaimed products that have ",
+        "uniquely proved their pedigree in the African environment in areas such as national utility ",
+        "billing and national payroll. His company has developed a number of award winning products ",
+        "such as the as  Hei Julor!!! , a low cost, mobile phone based, mass market security alert system for Africa.",
+        "He is the current commonwealth chairman for business and technology and initiatives for ",
+        "Africa and is is working on his newest innovation, “Afrikan Echoes”, which is aimed at ",
+        "delivering raw African stories to Africa and the world via a phone APP.",
+        "He is a TED fellow and is featured regularly in the international media including CNN,",
+        "BBC and Al Jazeera.  He has been featured in many magazines including Ghana Business and Finance Times, Forbes, IEEE and many more.",
+
+        "He holds a Bachelor of Science Degree in Technology from Texas State University ",
+        "and attended Westlake High School in Texas and Mfantsipim School in Ghana.",
+        " He is considered a giant in African technology and innovation.",
+        "INC magazine, the BBC and other international publications have referred to him as “The Bill Gates of Africa.”"
+      ]
+    },
+    {
+      "name": "Sabelo Sethu Mhlambi",
+      "title": "Founder & CEO of Bhala AI",
+      "topic": "Panelist on Impact of Ai for African sustainable development",
+      "image": "assets/speaker/sebelo-sethu.jpg",
+      "description": [
+        "Sabelo has held academic appointments at the Berkman-Klein Center, Stanford's ",
+        "Digital Civil Society Lab, and the Carr Center for Human Rights Policy, ",
+        "researching the human rights implications of algorithmic technology on ",
+        "marginalized communities from global south perspectives.He has been developing",
+        "software for over a decade, including natural language processing for African ",
+        "languages, open-source anti-censorship software, and content recommendation systems."
+      ]
+    },
+    {
+      "name": " Prof.-Achim-Ibenthal",
+      "title": "Professor at HAWK University of Applied Sciences and Arts in Göttingen, Germany",
+      "topic": "Panelist on Impact of AI for African sustainable development",
+      "image": "assets/speaker/Prof.-Achim-Ibenthal.jpg",
+      "description": [
+        "Achim Ibenthal received his Dipl.-Ing. degree in Electrical Engineering from the ",
+        "University of Dortmund, Germany in 1989 and his Dr.-Ing. degree from the Technical",
+        "University of Hamburg-Harburg, Germany in 2000. From 1989 to 2006 he held several ",
+        "industry positions as a development engineer, chief systems architect, engineering ",
+        "and innovation manager, developing hardware/software systems on chip and applications.",
+        "In 2006 he joined HAWK University of Applied Sciences and Arts in Göttingen,",
+        "Germany as a full professor, with a 2 1/2 years stay at Adama Science and Technology",
+        "University, Ethiopia. His research interests are dedicated to artificial intelligence, ",
+        "health technologies, and signal- and image processing."
+      ]
+    },
+    {
+      "name": "MERCY NDEGWA",
+      "title": "Public Policy Director, East & Horn of Africa at Facebook",
+      "topic": "Panelist on Impact of AI for African sustainable development",
+      "image": "assets/speaker/mercy-ndegwa.png",
+      "description": [
+        "Mercy Ndegwa is the Public Policy Director, East & Horn of Africa at Facebook.",
+        "She is a seasoned professional with over fifteen years' experience in the tech and digital sectors.",
+        "In her current role, Mercy is responsible for supporting and advising Facebook on policy and ",
+        "regulatory dynamics in the region while creating the opportunity to have a more inclusive, open, safe, ",
+        "and connected Eastern Africa. Her work involves day to day management of relevant public policy interests, ",
+        "advocacy on topical issues in the digital space, building stakeholder networks and Government relations. ",
+        "Mercy also works in tandem with Facebook's wider cross-functional teams to advance user safety online, ",
+        "internet access and inclusion, electoral integrity, implement policy programs on social and economic ",
+        "empowerment, promote digital rights and support Connectivity Initiatives in the region. In this role,",
+        "Mercy also communicates Facebook's position on key policy issues and developments to various publics.",
+        "Prior to joining Facebook, Mercy held various senior management positions at Safaricom PLC and the",
+        "GSM Associations where her roles included Public Policy Advisory and Advocacy, Competition Management,",
+        "Regulatory Affairs, Government Relations, International & Wholesale Business Management, ",
+        "Digital Inclusion, Online Safety amongst others, within the East and wider Sub-Saharan ",
+        "Africa regions. In 2017 and 2018, Mercy was a board member and the Chair of the Telecoms",
+        "Assembly within the East Africa Communications Organization. She is currently a board member ",
+        "of InAble.org, a non-profit organization that advocates for digital accessibility and inclusion ",
+        "for persons with visual disability.Mercy Ndegwa holds a Masters in Business Administration- International ",
+        "Business Management and a Bachelors in Education from the University of Nairobi. Mercy also holds",
+        "an Executive Masters in Public Policy from Strathmore University, and various certifications in ",
+        "competition studies from the Barcelona Graduate School of Economics.Besides her professional work, ",
+        " Mercy is a mother of three and a passionate advocate for empowerment of children and women. ",
+        " She also volunteers her time and resources towards mentorship and other charities and hobbies"
+      ]
+    },
+    {
+      "name": "Solomon Kassa",
+      "title": "senior technology consultant & strategist",
+      "topic": "Event organizer",
+      "image": "assets/speaker/solomon-kassa.jpg",
+      "description": [
+        "Solomon Kassa In his professional career, Solomon has been working as senior technology ",
+        " consultant & strategist at a Fortune 500 Global Firm leading multi-million-dollar",
+        " large technology implementations. He worked as a software engineer prior to joining",
+        " management consulting. He is also a producer and host of the popular “TechTalk With Solomon” on EBS. ",
+        "For the past 10+ years, Solomon produced more than 275 episodes, discussing 700+ science and ",
+        "tech topics as well as interviewing 100+ prominent guests including Prime Minister Abiy Ahmed. ",
+        "In 2018, Solomon published “ግርምተ ሳይቴክ” (The Wonder of SciTech) – the first-of-its-kind ",
+        "science & tech 400 pages book to be ever published in Amharic. Solomon is a social media",
+        "influencer with more than 1.4 million followers."
+      ]
+    }
+  ]
+}
